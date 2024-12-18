@@ -1,0 +1,223 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#main {
+    border:  #FFF solid 96px;
+    
+}
+#mainbox {
+    border: #1B0E0F solid 96px ;
+   
+    margin: auto;
+    
+}
+#mainback {
+    background: #FFF;
+    max-width: 1412px;
+    width: 100%;
+    margin: auto;
+    
+}
+#ourblog {
+    color: #002AFE;
+    font-size: 16px;
+    text-align: center;
+    padding-top: 96px;
+}
+h1 {
+    color: #181D27;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 12px;
+    margin-bottom: 24px;
+}
+#blogp {
+    color: #535862;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 56px;
+}
+#maindiv {
+    display: inline-block;
+    vertical-align: middle;
+   
+    
+
+}
+#avatarpic {
+    vertical-align: middle;
+    border-radius: 16px;
+    background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+    margin-left: 66px;
+    
+
+}
+
+#designbox {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 548px;
+    width: 100%;
+    margin-left: 96px;
+    margin-right: 66px;
+ 
+
+}
+#design {
+    color: #6941C6;
+    font-size: 14px;
+    margin-top: 59px;
+
+}
+#collaboration {
+    color: #181D27;
+    font-size: 24px;
+    display: inline;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+#arrowone {
+    margin-left: 30px;
+}
+
+#collaborationp {
+    color: #535862;
+    font-size: 16px;
+    overflow: hidden;
+}
+
+#avatarone {
+    vertical-align: middle;
+    margin-top: 24px;
+    margin-right: 8px;
+
+}
+#avatarbox {
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+#natali {
+    color: #181D27;
+    font-size: 14px;
+    margin-top: 24px;
+
+}
+
+#date {
+    color: #535862;
+    font-size: 14px;
+
+}
+
+
+#secondbox {
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+#comppic {
+    vertical-align: middle;
+    border-radius: 16px;
+    background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+    margin-left: 66px;
+    margin-top: 56px;
+}
+
+#frameworkbox {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 548px;
+    width: 100%;
+    margin-left: 96px;
+    margin-right: 66px;
+}
+
+#product {
+    color: #6941C6;
+    font-size: 14px;
+    margin-top: 93px;
+}
+
+#frameworkh {
+    color: #181D27;
+    font-size: 24px;
+    display: inline;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+#arrowtwo {
+    margin-left: 30px;
+}
+#frameworkp {
+    color: #535862;
+    font-size: 16px;
+    overflow: hidden;
+}
+
+#avatartwo {
+    vertical-align: middle;
+    margin-top: 24px;
+    margin-right: 8px;
+}
+#avatarboxtwo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#thirddbox {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#mirrorpic {
+    vertical-align: middle;
+    border-radius: 16px;
+    background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+    margin-left: 66px;
+    margin-top: 56px;
+}
+#podcast {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 548px;
+    width: 100%;
+    margin-left: 96px;
+    margin-right: 66px;
+}
+
+#customer {
+    color: #6941C6;
+    font-size: 14px;
+    margin-top: 93px;
+}
+#podcasth {
+    color: #181D27;
+    font-size: 24px;
+    display: inline;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+#arrowthree {
+    margin-left: 30px;
+}
+
+#podcastp {
+    color: #535862;
+    font-size: 16px;
+    overflow: hidden;
+}
+#avatarthree {
+    vertical-align: middle;
+    margin-top: 24px;
+    margin-right: 8px;
+}
+
+#avatarboxthree {
+    display: inline-block;
+    vertical-align: middle;
+}
